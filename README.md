@@ -6,3 +6,6 @@
 2. [Midjourney](https://www.midjourney.com/app/)
 3. [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 4. [Bing Image Creator](https://www.bing.com/create)
+## 理想の人物を作成してみよう
+## 人物に話をさせてみよう
+- [D-ID](https://www.d-id.com/)
